@@ -1,0 +1,13 @@
+.box {
+  border: 2px solid green;
+  height: 450px;
+  width: fit-content;
+  background-color: cyan;
+  display:inline-flex
+}
+.imageStyle{
+  border: 2px solid black;
+  height: 200px;
+  width: 150px;
+  background-color: cyan;
+}
